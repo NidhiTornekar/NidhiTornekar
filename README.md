@@ -7,7 +7,7 @@
 
 ## GitHub Achievements
 
-Sharing a glimpse of my recent GitHub achievements during #GSSOC2024!
+Sharing a glimpse of my GitHub achievements!
 
 - **Pull Shark**: Engaging in pull requests that were successfully merged  
   ![Pull Shark Badge](https://github.com/NidhiTornekar/NidhiTornekar/blob/main/pull-shark.png)
