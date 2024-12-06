@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## GirlScript Summer of Code (GSSOC)
-- **Explorer Batch** | Contributing to Open-source
+- **Explorer Batch** | Contributed to Open-source
 ![GSSOC Explorer Badge](https://github.com/NidhiTornekar/NidhiTornekar/blob/main/Share%20Badge.png)
 
 ---
